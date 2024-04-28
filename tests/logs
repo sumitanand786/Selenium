@@ -1,0 +1,25 @@
+2024-04-28 01:16:27,496 :INFO :test_ecommerce_flow :getting all the cart titles
+2024-04-28 01:16:27,568 :INFO :test_ecommerce_flow :iphone X
+2024-04-28 01:16:27,599 :INFO :test_ecommerce_flow :Samsung Note 8
+2024-04-28 01:16:27,629 :INFO :test_ecommerce_flow :Nokia Edge
+2024-04-28 01:16:27,660 :INFO :test_ecommerce_flow :Blackberry
+2024-04-28 01:16:27,773 :INFO :test_ecommerce_flow :Blackberry added to cart successfully
+2024-04-28 01:16:33,231 :INFO :test_ecommerce_flow :Entering country name
+2024-04-28 01:16:33,691 :INFO :test_ecommerce_flow :Assertion passed, text matched
+2024-04-28 01:19:11,431 :INFO :test_ecommerce_flow :getting all the cart titles
+2024-04-28 01:19:11,504 :INFO :test_ecommerce_flow :iphone X
+2024-04-28 01:19:11,536 :INFO :test_ecommerce_flow :Samsung Note 8
+2024-04-28 01:19:11,570 :INFO :test_ecommerce_flow :Nokia Edge
+2024-04-28 01:19:11,600 :INFO :test_ecommerce_flow :Blackberry
+2024-04-28 01:19:11,693 :INFO :test_ecommerce_flow :Blackberry added to cart successfully
+2024-04-28 01:19:17,180 :INFO :test_ecommerce_flow :Entering country name
+2024-04-28 01:19:17,564 :INFO :test_ecommerce_flow :Assertion passed, text matched
+2024-04-28 14:47:24,914 :INFO :test_ecommerce_flow :getting all the cart titles
+2024-04-28 14:47:24,985 :INFO :test_ecommerce_flow :iphone X
+2024-04-28 14:47:25,019 :INFO :test_ecommerce_flow :Samsung Note 8
+2024-04-28 14:47:25,052 :INFO :test_ecommerce_flow :Nokia Edge
+2024-04-28 14:47:25,085 :INFO :test_ecommerce_flow :Blackberry
+2024-04-28 14:47:25,187 :INFO :test_ecommerce_flow :Blackberry added to cart successfully
+2024-04-28 14:47:30,650 :INFO :test_ecommerce_flow :Entering country name
+2024-04-28 14:47:31,069 :INFO :test_ecommerce_flow :Assertion passed, text matched
+2024-04-28 14:49:52,746 :INFO :test_ecommerce_flow :getting all the cart titles
